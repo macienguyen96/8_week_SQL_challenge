@@ -4,7 +4,7 @@ The 8 Week SQL Challenge, There are total 8 different SQL case studies, was crea
 Link: https://8weeksqlchallenge.com/
 ```
 ## Casestudy #1 - Danny's Diner
-![This is an image](https://8weeksqlchallenge.com/images/case-study-designs/2.png)
+![This is an image](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
